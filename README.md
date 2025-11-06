@@ -1,4 +1,4 @@
-# 🧠 YARA Usage Checklist
+# YARA Usage Checklist
 
 A complete, step-by-step guide for installing, creating, testing, and using **YARA** for malware detection, threat hunting, and incident response.
 
